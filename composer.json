@@ -22,5 +22,6 @@
   },
   "suggest": {
     "qcubed/bootstrap": "dev-master"
-  }
+  },
+  "minimum-stability": "dev"
 }
