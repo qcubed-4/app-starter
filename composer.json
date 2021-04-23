@@ -1,0 +1,27 @@
+{
+  "name": "qcubed-4/app-starter",
+  "description": "QCubed-4 application starter template",
+  "keywords": ["qcubed", "framework", "project template"],
+  "homepage": "http://qcubed.eu/",
+  "type": "project",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/qcubed-4/application/issues?state=open",
+    "source": "https://github.com/qcubed-4/application"
+  },
+  "require": {
+    "php": ">=7.0",
+    "qcubed-4/common": "dev-master",
+    "qcubed-4/application": "dev-master",
+    "qcubed-4/orm": "dev-master",
+    "qcubed-4/i18n": "dev-master",
+    "qcubed-4/cache": "dev-master"
+  },
+  "require-dev" : {
+    "phpunit/phpunit": "^6 || ^7"
+  },
+  "suggest": {
+    "qcubed/bootstrap": "dev-master"
+  },
+  "minimum-stability": "dev"
+}
