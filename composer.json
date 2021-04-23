@@ -18,7 +18,7 @@
     "qcubed-4/cache": "dev-master"
   },
   "require-dev" : {
-    "phpunit/phpunit": "^6 || ^7"
+    "phpunit/phpunit": ">=6.0"
   },
   "suggest": {
     "qcubed/bootstrap": "dev-master"
