@@ -11,12 +11,12 @@
   },
   "require": {
     "php": ">=7.0",
-    "qcubed/composer": "dev-master",
-    "qcubed/common": "dev-master",
-    "qcubed/application": "dev-master",
-    "qcubed/orm": "dev-master",
-    "qcubed/i18n": "dev-master",
-    "qcubed/cache": "dev-master"
+    "qcubed-4/qcubed/composer": "dev-master",
+    "qcubed-4/qcubed/common": "dev-master",
+    "qcubed-4/qcubed/application": "dev-master",
+    "qcubed-4/qcubed/orm": "dev-master",
+    "qcubed-4/qcubed/i18n": "dev-master",
+    "qcubed-4/qcubed/cache": "dev-master"
   },
   "require-dev" : {
     "phpunit/phpunit": ">=9.0"
