@@ -24,5 +24,27 @@
   "suggest": {
     "qcubed/bootstrap": "dev-master"
   },
+  "autoload": {
+    "psr-4": {
+      "QCubed\\Devtools\\": "includes/_devtools/"
+    }
+  },
+  "extra": {
+    "writePermission": [
+        "project/generated",
+        "project/generated/connector_base",
+        "project/generated/drafts",
+        "project/generated/drafts/panels",
+        "project/generated/form_base",
+        "project/generated/model_base",
+        "project/includes/connector",
+        "project/includes/model",
+        "project/tmp",
+        "project/forms",
+        "project/includes/dialog",
+        "project/includes/panel",
+        "project/includes/configuration/codegen_options.json"
+    ]
+  },
   "minimum-stability": "dev"
 }
