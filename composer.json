@@ -1,7 +1,7 @@
 {
   "name": "qcubed-4/app-starter",
   "description": "QCubed-4 application starter template",
-  "keywords": ["qcubed", "framework", "project template"],
+  "keywords": ["qcubed-4", "framework", "project template"],
   "homepage": "http://qcubed.eu/",
   "type": "project",
   "license": "MIT",
