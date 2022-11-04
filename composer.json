@@ -26,7 +26,8 @@
   },
   "autoload": {
     "psr-4": {
-      "QCubed\\Devtools\\": "includes/_devtools/"
+      "QCubed\\Devtools\\": "includes/_devtools/",
+      "classmap\\": ["src/"]
     }
   },
   "minimum-stability": "dev"
