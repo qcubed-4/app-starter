@@ -25,7 +25,6 @@
     "ext-simplexml": "*",
     "ext-dom": "20031129",
     "ext-pgsql": "*",
-    "ext-apcu": "*",
     "ext-gettext": "*",
     "ext-zlib": "*"
   },
